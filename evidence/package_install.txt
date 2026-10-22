@@ -1,0 +1,12 @@
+Working directory: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-package-smoke
+Command: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-package-smoke\Scripts\python.exe -m pip install --no-deps "C:\Users\hasan\University\E4 fall\EECE435L\Hassan_Nasrallah_EECE435L_lab_6\packages\calculator_hassan_nasrallah-1.0.0-py3-none-any.whl" "C:\Users\hasan\University\E4 fall\EECE435L\Hassan_Nasrallah_EECE435L_lab_6\packages\my_python_project-1.0.0-py3-none-any.whl"
+
+Processing c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\packages\calculator_hassan_nasrallah-1.0.0-py3-none-any.whl
+Processing c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\packages\my_python_project-1.0.0-py3-none-any.whl
+Installing collected packages: my-python-project, calculator-hassan-nasrallah
+Successfully installed calculator-hassan-nasrallah-1.0.0 my-python-project-1.0.0
+
+[notice] A new release of pip is available: 23.2.1 -> 26.2.2
+[notice] To update, run: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-package-smoke\Scripts\python.exe -m pip install --upgrade pip
+
+Exit code: 0

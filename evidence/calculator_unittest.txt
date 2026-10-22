@@ -1,0 +1,42 @@
+Working directory: C:\Users\hasan\University\E4 fall\EECE435L\Hassan_Nasrallah_EECE435L_lab_6\calculator_Hassan_Nasrallah
+Command: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-venv\Scripts\python.exe -m unittest tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah -v
+
+test_add_decimal (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_add_decimal) ... ok
+test_add_negative (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_add_negative) ... ok
+test_add_positive (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_add_positive) ... ok
+test_add_zero (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_add_zero) ... ok
+test_divide_by_zero (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_divide_by_zero) ... ok
+test_divide_exact (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_divide_exact) ... ok
+test_divide_fraction (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_divide_fraction) ... ok
+test_divide_negative (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_divide_negative) ... ok
+test_divide_zero_numerator (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_divide_zero_numerator) ... ok
+test_modulus_by_zero (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_modulus_by_zero) ... ok
+test_modulus_decimal (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_modulus_decimal) ... ok
+test_modulus_exact_multiple (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_modulus_exact_multiple) ... ok
+test_modulus_negative_dividend (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_modulus_negative_dividend) ... ok
+test_modulus_negative_divisor (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_modulus_negative_divisor) ... ok
+test_modulus_remainder (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_modulus_remainder) ... ok
+test_multiply_negative (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_multiply_negative) ... ok
+test_multiply_positive (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_multiply_positive) ... ok
+test_multiply_zero (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_multiply_zero) ... ok
+test_power_fractional_exponent (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_power_fractional_exponent) ... ok
+test_power_negative_base (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_power_negative_base) ... ok
+test_power_negative_exponent (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_power_negative_exponent) ... ok
+test_power_positive (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_power_positive) ... ok
+test_power_zero_exponent (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_power_zero_exponent) ... ok
+test_power_zero_negative_exponent (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_power_zero_negative_exponent) ... ok
+test_square_root_fraction (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_square_root_fraction) ... ok
+test_square_root_irrational (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_square_root_irrational) ... ok
+test_square_root_negative (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_square_root_negative) ... ok
+test_square_root_perfect_square (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_square_root_perfect_square) ... ok
+test_square_root_zero (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_square_root_zero) ... ok
+test_subtract_negative_operand (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_subtract_negative_operand) ... ok
+test_subtract_negative_result (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_subtract_negative_result) ... ok
+test_subtract_positive (tests.unittest.calculator_Hassan_Nasrallah.test_calculator_Hassan_Nasrallah.TestCalculator.test_subtract_positive) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 0.001s
+
+OK
+
+Exit code: 0

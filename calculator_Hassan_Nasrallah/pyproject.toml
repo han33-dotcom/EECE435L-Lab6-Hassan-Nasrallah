@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calculator_Hassan_Nasrallah"
+version = "1.0.0"
+description = "Calculator for EECE435L Lab 6"
+authors = [{name = "Hassan Nasrallah"}]
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src/main/python"]

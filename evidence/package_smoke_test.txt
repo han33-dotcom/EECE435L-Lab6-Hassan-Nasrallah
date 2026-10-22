@@ -1,0 +1,10 @@
+Working directory: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-package-smoke
+Command: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-package-smoke\Scripts\python.exe -c "from calculator_Hassan_Nasrallah import modulus,power,square_root; from my_module import greet; assert modulus(10,3)==1; assert power(2,5)==32; assert square_root(25)==5; assert greet(\"World\")==\"Hello, World!\"; print(\"Both built wheels imported successfully outside source directories.\"); print(\"modulus(10, 3) =\",modulus(10,3)); print(\"power(2, 5) =\",power(2,5)); print(\"square_root(25) =\",square_root(25)); print(greet(\"World\"))"
+
+Both built wheels imported successfully outside source directories.
+modulus(10, 3) = 1
+power(2, 5) = 32
+square_root(25) = 5.0
+Hello, World!
+
+Exit code: 0

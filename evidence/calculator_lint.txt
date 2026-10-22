@@ -1,0 +1,5 @@
+Working directory: C:\Users\hasan\University\E4 fall\EECE435L\Hassan_Nasrallah_EECE435L_lab_6\calculator_Hassan_Nasrallah
+Command: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-venv\Scripts\python.exe -m flake8 src tests build.py
+
+
+Exit code: 0

@@ -1,0 +1,38 @@
+Working directory: C:\Users\hasan\University\E4 fall\EECE435L\Hassan_Nasrallah_EECE435L_lab_6\calculator_Hassan_Nasrallah
+Command: C:\Users\hasan\Documents\Codex\2026-10-22\aub-faf-com\work\lab6-venv\Scripts\pyb.exe run_unit_tests publish
+
+PyBuilder version 0.13.24
+Build started at 2026-10-22 10:18:17
+------------------------------------------------------------
+[INFO]  Building calculator_Hassan_Nasrallah version 1.0.0
+[INFO]  Executing build in c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah
+[INFO]  Going to execute tasks: run_unit_tests, publish
+[INFO]  Processing plugin packages 'build>=1.3.0' to be installed with {}
+[INFO]  Processing plugin packages 'pypandoc~=1.4' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'setuptools>=76.0' to be installed with {}
+[INFO]  Processing plugin packages 'twine>=1.15.0' to be installed with {'upgrade': True}
+[INFO]  Processing plugin packages 'unittest-xml-reporting>=3.0.4' to be installed with {'upgrade': True}
+[INFO]  Creating target 'build' VEnv in 'c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\target\venv\build\cpython-3.11.5.final.0'
+[INFO]  Creating target 'test' VEnv in 'c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\target\venv\test\cpython-3.11.5.final.0'
+[INFO]  Running unit tests
+[INFO]  Executing unit tests from Python modules in c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\tests\unittest\calculator_hassan_nasrallah
+[INFO]  Executed 32 unit tests
+[INFO]  All unit tests passed.
+[INFO]  Building distribution in c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\target\dist\calculator_hassan_nasrallah-1.0.0
+[INFO]  Copying scripts to c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\target\dist\calculator_hassan_nasrallah-1.0.0\scripts
+[INFO]  Writing setup.py as c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\target\dist\calculator_hassan_nasrallah-1.0.0\setup.py
+[INFO]  Building binary distribution in c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah\target\dist\calculator_hassan_nasrallah-1.0.0
+[INFO]  Running Twine check for generated artifacts
+------------------------------------------------------------
+BUILD SUCCESSFUL
+------------------------------------------------------------
+Build Summary
+             Project: calculator_Hassan_Nasrallah
+             Version: 1.0.0
+      Base directory: c:\users\hasan\university\e4 fall\eece435l\hassan_nasrallah_eece435l_lab_6\calculator_hassan_nasrallah
+        Environments: 
+               Tasks: prepare [8015 ms] compile_sources [0 ms] run_unit_tests [783 ms] package [41 ms] run_integration_tests [0 ms] verify [0 ms] publish [7487 ms]
+Build finished at 2026-10-22 10:18:35
+Build took 18 seconds (18010 ms)
+
+Exit code: 0

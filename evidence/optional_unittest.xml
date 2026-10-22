@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_my_module.TestMyModule-20261022101901" tests="4" file="test_my_module.py" time="0.020" timestamp="2026-10-22T10:19:01" failures="0" errors="0" skipped="0">
+	<testcase classname="test_my_module.TestMyModule" name="test_app_greeting" time="0.010" timestamp="2026-10-22T10:19:01"/>
+	<testcase classname="test_my_module.TestMyModule" name="test_empty_name" time="0.000" timestamp="2026-10-22T10:19:01"/>
+	<testcase classname="test_my_module.TestMyModule" name="test_pybuilder" time="0.000" timestamp="2026-10-22T10:19:01"/>
+	<testcase classname="test_my_module.TestMyModule" name="test_world" time="0.010" timestamp="2026-10-22T10:19:01"/>
+</testsuite>
